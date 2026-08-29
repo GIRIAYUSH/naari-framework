@@ -1,0 +1,11 @@
+Iso3,Region,Income_Group,Economy,Internet_Users_Pct,Households_Internet_Pct,Mobile_BB_Subs_100,Coverage_3G_Pct,Coverage_4G_Pct,Mobile_Traffic_GB,Fixed_Traffic_GB,Mobile_Basket_GNI,Fixed_Basket_GNI,Mobile_Phone_Owners_Pct,Universal_Pillar,Meaningful_Pillar,IDI_Score
+BGD,Asia-Pacific,Lower-middle-income,Bangladesh,53.4,55.1,56.5,99.7,99.6,148.0,1146.7,1.2,1.3,64.4,50.6,87.1,68.9
+BTN,Asia-Pacific,Lower-middle-income,Bhutan,91.3,92.1,,97.0,97.0,232.6,62.3,1.7,2.2,93.2†,85.9,86.8,86.4
+CHN,Asia-Pacific,Upper-middle-income,China,92.0,91.7,131.8,100.0,100.0,185.1,3298.9,0.8,0.4,93.5†,93.7,95.1,94.4
+EST,Europe,High-income,Estonia,92.2,92.9,195.3,100.0,99.0,391.8,,0.3,0.9,95.9†,98.3,98.8,98.5
+NPL,Asia-Pacific,Lower-middle-income,Nepal (Republic of),46.3,40.2,99.6,90.0,86.0,,,2.5,7.2,78.4†,52.5,83.7,68.1
+PAK,Asia-Pacific,Lower-middle-income,Pakistan,57.3,69.7,55.1,81.0,81.0,99.4,3665.9,1.4,8.6,49.8,56.8,78.5,67.7
+RWA,Africa,Low-income,Rwanda,31.7,45.0,71.6,99.8,98.8,29.3,5347.7,4.2,26.4,51.5†,42.8,67.8,55.3
+SGP,Asia-Pacific,High-income,Singapore,94.4,98.5,170.8,100.0,100.0,110.4,,0.2,0.7,98.2‡,99.8,96.0,97.9
+LKA,Asia-Pacific,Lower-middle-income,Sri Lanka,49.9,76.7,73.5,97.4,97.4,149.6,558.4,0.5,0.7,64.2‡,60.8,85.7,73.2
+USA,Americas,High-income,United States,94.7,,196.7,99.0,99.0,187.6,,0.7,0.7,97.1†,99.8,96.0,97.9

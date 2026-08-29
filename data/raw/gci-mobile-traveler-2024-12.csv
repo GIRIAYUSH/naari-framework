@@ -1,0 +1,51 @@
+rank,iso2,iso3,country,continent,traveler_score,download_mbps,upload_mbps,latency_ms,data_period,mode,samples,confidence
+1,SG,SGP,"Singapore",AS,89.15,262.60,132.40,6.00,2024-12-01,baseline,0,low
+2,HK,HKG,"Hong Kong",AS,86.56,248.60,125.40,8.00,2024-12-01,baseline,0,low
+3,KR,KOR,"South Korea",AS,83.99,232.60,118.40,8.00,2024-12-01,baseline,0,low
+4,MO,MAC,"Macau",AS,82.32,225.60,112.40,10.00,2024-12-01,baseline,0,low
+5,JP,JPN,"Japan",AS,77.77,198.60,98.40,10.00,2024-12-01,baseline,0,low
+6,AE,ARE,"United Arab Emirates",AS,75.43,195.20,95.40,22.00,2024-12-01,baseline,0,low
+7,TW,TWN,"Taiwan",AS,75.3,185.60,92.40,12.00,2024-12-01,baseline,0,low
+8,QA,QAT,"Qatar",AS,72.21,172.60,85.40,18.00,2024-12-01,baseline,0,low
+9,IL,ISR,"Israel",AS,66.53,142.60,68.20,20.00,2024-12-01,baseline,0,low
+10,CN,CHN,"China",AS,64.7,142.60,68.20,32.00,2024-12-01,baseline,0,low
+11,BH,BHR,"Bahrain",AS,63.51,125.60,58.80,20.00,2024-12-01,baseline,0,low
+12,SA,SAU,"Saudi Arabia",AS,63.38,128.60,60.40,25.00,2024-12-01,baseline,0,low
+13,KW,KWT,"Kuwait",AS,61.89,118.40,55.60,22.00,2024-12-01,baseline,0,low
+14,TH,THA,"Thailand",AS,61.13,118.60,55.40,28.00,2024-12-01,baseline,0,low
+15,MY,MYS,"Malaysia",AS,59.46,108.60,50.40,28.00,2024-12-01,baseline,0,low
+16,OM,OMN,"Oman",AS,55.2,88.60,40.20,32.00,2024-12-01,baseline,0,low
+17,VN,VNM,"Vietnam",AS,55.2,88.60,40.20,32.00,2024-12-01,baseline,0,low
+18,BN,BRN,"Brunei",AS,55.13,85.20,38.40,28.00,2024-12-01,baseline,0,low
+19,TR,TUR,"Turkey",AS,47.89,52.60,22.80,38.00,2024-12-01,baseline,0,low
+20,IN,IND,"India",AS,46.93,52.40,22.60,42.00,2024-12-01,baseline,0,low
+21,KZ,KAZ,"Kazakhstan",AS,46.93,52.40,22.60,42.00,2024-12-01,baseline,0,low
+22,JO,JOR,"Jordan",AS,45.92,48.60,20.80,45.00,2024-12-01,baseline,0,low
+23,GE,GEO,"Georgia",AS,45.21,42.80,18.60,42.00,2024-12-01,baseline,0,low
+24,AM,ARM,"Armenia",AS,44.84,38.60,17.20,40.00,2024-12-01,baseline,0,low
+25,ID,IDN,"Indonesia",AS,44.81,42.80,18.40,45.00,2024-12-01,baseline,0,low
+26,PH,PHL,"Philippines",AS,44.4,42.60,18.40,48.00,2024-12-01,baseline,0,low
+27,MV,MDV,"Maldives",AS,43.99,45.60,19.80,55.00,2024-12-01,baseline,0,low
+28,UZ,UZB,"Uzbekistan",AS,43.57,38.60,16.80,48.00,2024-12-01,baseline,0,low
+29,AZ,AZE,"Azerbaijan",AS,43.51,35.80,15.60,45.00,2024-12-01,baseline,0,low
+30,KH,KHM,"Cambodia",AS,43.1,35.80,15.40,48.00,2024-12-01,baseline,0,low
+31,LK,LKA,"Sri Lanka",AS,43.1,35.80,15.40,48.00,2024-12-01,baseline,0,low
+32,NP,NPL,"Nepal",AS,42.39,35.80,15.40,52.00,2024-12-01,baseline,0,low
+33,MN,MNG,"Mongolia",AS,41.29,32.40,14.20,55.00,2024-12-01,baseline,0,low
+34,KG,KGZ,"Kyrgyzstan",AS,40.47,28.60,12.40,55.00,2024-12-01,baseline,0,low
+35,LA,LAO,"Laos",AS,40.45,28.60,12.20,55.00,2024-12-01,baseline,0,low
+36,PK,PAK,"Pakistan",AS,40.45,28.60,12.20,55.00,2024-12-01,baseline,0,low
+37,BD,BGD,"Bangladesh",AS,40.41,28.60,11.80,55.00,2024-12-01,baseline,0,low
+38,IR,IRN,"Iran",AS,39.23,25.40,10.60,58.00,2024-12-01,baseline,0,low
+39,PS,PSE,"Palestine",AS,38.01,22.60,9.80,62.00,2024-12-01,baseline,0,low
+40,TJ,TJK,"Tajikistan",AS,38.01,22.60,9.80,62.00,2024-12-01,baseline,0,low
+41,MM,MMR,"Myanmar",AS,37.99,22.60,9.60,62.00,2024-12-01,baseline,0,low
+42,BT,BTN,"Bhutan",AS,37.12,18.40,7.80,62.00,2024-12-01,baseline,0,low
+43,LB,LBN,"Lebanon",AS,36.17,18.60,7.80,68.00,2024-12-01,baseline,0,low
+44,TM,TKM,"Turkmenistan",AS,34.17,15.40,6.50,75.00,2024-12-01,baseline,0,low
+45,IQ,IRQ,"Iraq",AS,33.79,23.79,11.52,62.27,2026-08-01,hybrid,3,low
+46,TL,TLS,"Timor-Leste",AS,32.43,12.60,5.30,82.00,2024-12-01,baseline,0,low
+47,AF,AFG,"Afghanistan",AS,31.01,8.20,3.10,85.00,2024-12-01,baseline,0,low
+48,SY,SYR,"Syria",AS,29.12,8.60,3.60,95.00,2024-12-01,baseline,0,low
+49,YE,YEM,"Yemen",AS,26.36,5.60,2.30,105.00,2024-12-01,baseline,0,low
+50,KP,PRK,"North Korea",AS,18.85,2.80,1.10,150.00,2024-12-01,baseline,0,low
