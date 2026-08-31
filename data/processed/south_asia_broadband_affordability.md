@@ -1,0 +1,9 @@
+| Economy             |   FixedBasket_GNI_Pct |   MobileBasket_GNI_Pct |   IDI_Score |
+|:--------------------|----------------------:|-----------------------:|------------:|
+| Sri Lanka           |                   0.7 |                    0.5 |        73.2 |
+| Bangladesh          |                   1.3 |                    1.2 |        68.9 |
+| Maldives            |                   1.9 |                    1.9 |        83.1 |
+| Bhutan              |                   2.2 |                    1.7 |        86.4 |
+| Nepal (Republic of) |                   7.2 |                    2.5 |        68.1 |
+| Pakistan            |                   8.6 |                    1.4 |        67.7 |
+| Afghanistan         |                  19.2 |                   16.3 |        36.2 |
